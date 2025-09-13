@@ -1,0 +1,5 @@
+def main(private field w, field a, field b) {
+    field inv_b = -b;
+    assert(a * w + inv_b == 0);
+    return ;
+}

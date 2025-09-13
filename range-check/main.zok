@@ -1,0 +1,4 @@
+def main(private field x) {
+    assert (x >= 0 && x <= 10);
+    return ;
+}

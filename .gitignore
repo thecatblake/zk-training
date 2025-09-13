@@ -1,0 +1,8 @@
+abi.json
+out
+*.r1cs
+*.wtns
+*.key
+witness
+verifier.sol
+proof.json
